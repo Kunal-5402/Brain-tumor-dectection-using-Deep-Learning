@@ -36,3 +36,5 @@ After segmenting all the images we have fed the images to our CNN(convolutional 
 <p>The implementation of the CNN is done with tensorflow and keras
 
 <b>All the stats and logs are present in the Classification report folder.</b>
+<hr>
+<p>Research Paper Draft Link: https://docs.google.com/document/d/1yZPBoo7TFp-tvtQ3xOm5ZyYZZVuuHbHtu_1n4fZYrw8/edit?usp=sharing</p>
